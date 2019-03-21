@@ -31,8 +31,7 @@ public class APICordinates {
     @Test
     public void Test01_run () throws IOException, ParserConfigurationException, SAXException {
 
-    //UploadGoogleMaps. API_Locations(driver);
-         driver.get("https://www.youtube.com/");
+    UploadGoogleMaps. API_Locations(driver);
        
 
     }
